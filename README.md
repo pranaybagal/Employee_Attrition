@@ -1,0 +1,2 @@
+# Employee_Attrition
+The goal of this project is to clarify the characteristics of employees that will churn (or that are at risk of churning), to help companies understand the causes so they can reduce the turnover rate. This will help any organization to reduce the turnover cost, to enhance the employee productivity and to maintain a healthy environment at the organization. Different classification algorithms are applied to check the highest accuracy.
